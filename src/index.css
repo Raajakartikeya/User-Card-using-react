@@ -6,7 +6,10 @@
 body{
     font-family: "Poppins", sans-serif;
     background-color:#0984e3;
-    margin: 40px;
+     margin-top:40px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 40px;
 }
 #root{
     justify-content: center;
